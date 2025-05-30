@@ -1,4 +1,4 @@
-![PY](https://github.com/user-attachments/assets/7425f3ea-77e6-4428-951b-54e0b440e80e =250x)
+![PY](https://github.com/user-attachments/assets/7425f3ea-77e6-4428-951b-54e0b440e80e)
 
 # Документация по Application Manager Python SDK
 
