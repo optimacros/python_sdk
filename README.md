@@ -1,4 +1,5 @@
-![LOGO]("https://github.com/optimacros/python_sdk/blob/main/PY.svg")
+![PY](https://github.com/user-attachments/assets/7425f3ea-77e6-4428-951b-54e0b440e80e =250x)
+
 # Документация по Application Manager Python SDK
 
 В данном репозитории находится документация к Application Manager Python SDK
