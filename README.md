@@ -23,5 +23,5 @@ Python SDK (англ. software development kit) - это интегрируем�
 
 1. [Version 0.0.1](/v%200.0.1/v%200.0.1.md)
 2. [Version 0.0.2](/v%200.0.2/v%200.0.2.md)
-3. Version 0.0.3 comming soon
-4. Version 1.0.0 comming soon
+3. Version 0.0.3 coming soon
+4. Version 1.0.0 coming soon
