@@ -25,3 +25,4 @@ Python SDK (англ. software development kit) - это интегрируем�
 2. [Version 0.0.2](/v%200.0.2/v%200.0.2.md)
 3. Version 0.0.3 coming soon
 4. Version 1.0.0 coming soon
+5. Примеры использования coming soon
